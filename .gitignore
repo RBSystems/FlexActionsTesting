@@ -1,0 +1,19 @@
+# PepperDash Gitignore file 
+# v00.01 2016-07-11
+
+## SiMPL Compiled Files
+*SPls*/
+SPlsWork/
+*.projectinfo
+
+## Panel Files
+*.ASV
+*.ced
+*.um2
+*.sgd2
+*.sm2
+**/*.xexe
+*.xexe.hash
+**/*.c3prj
+*.vtp.asv
+*.hash
