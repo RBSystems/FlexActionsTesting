@@ -1,2 +1,0 @@
-# PDT.EssentialsPluginTemplate.EPI
-
